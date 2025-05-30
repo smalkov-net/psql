@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Backup PostgreSQL Databases
+Type=Application
+NoDisplay=false
+Exec=/opt/smalk/back.sh
+Icon=pgadmin4
+Hidden=false
+Terminal=true
+StartupNotify=false
+Version=1.0
